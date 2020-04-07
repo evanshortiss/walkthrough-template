@@ -9,10 +9,15 @@
 * link:https://help.openshift.com/[Openshift Online Help Center, window="_blank"]
 * link:https://blog.openshift.com/[Openshift Blog, window="_blank"]
 ****
-
+[type=walkthroughResource,serviceName=openshift]
 .3scale
 ****
 * link:/{api-management-url}[Console, window="_blank"]
+****
+[type=walkthroughResource,serviceName=openshift]
+.CodeReady
+****
+* link:/{che-url}[Console, window="_blank"]
 ****
 
 [time=5]
